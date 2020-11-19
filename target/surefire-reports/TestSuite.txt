@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.465 s <<< FAILURE! - in TestSuite
+elementsUiCheck(QATestRahul.MavenJava.seleniumTest)  Time elapsed: 0.028 s  <<< FAILURE!
+java.lang.AssertionError: expected [1] but found [0]
+	at QATestRahul.MavenJava.seleniumTest.elementsUiCheck(seleniumTest.java:14)
+
