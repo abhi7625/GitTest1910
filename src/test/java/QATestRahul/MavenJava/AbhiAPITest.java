@@ -4,8 +4,8 @@ import org.testng.annotations.Test;
 
 public class APITest {
 @Test  
-public void postABHIJIRA()
-{
+	public void postABHIJIRA()
+	{
 	System.out.println("postJIRA");	
 	}
 }
