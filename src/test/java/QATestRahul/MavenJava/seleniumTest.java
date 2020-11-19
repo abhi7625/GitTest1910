@@ -13,6 +13,6 @@ public void elementsUiCheck()
 {
 	Assert.assertEquals(0, 1);
 	System.out.println("elementsUiCheck");
-	System.out.println("elementsUiCheck");
+	//System.out.println("elementsUiCheck");
 }
 }
