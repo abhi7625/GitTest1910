@@ -6,3 +6,5 @@ ab
 git fetch origin
 
 git reset --hard origin/master
+
+master is working now
