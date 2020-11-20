@@ -8,3 +8,5 @@ git fetch origin
 git reset --hard origin/master
 
 master is working now
+
+develop 2 is working now
